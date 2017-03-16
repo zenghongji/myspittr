@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="myspittr:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="myspittr.war">
+      <element id="artifact" artifact-name="myspittr:war exploded" />
+    </root>
+  </artifact>
+</component>
